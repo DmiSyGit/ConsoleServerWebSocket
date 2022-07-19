@@ -1,0 +1,7 @@
+{
+  "profiles": {
+    "ConsoleServerWebSocket": {
+      "commandName": "Project"
+    }
+  }
+}
